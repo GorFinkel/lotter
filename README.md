@@ -1,0 +1,2 @@
+# lotter
+Lotter Statistics
